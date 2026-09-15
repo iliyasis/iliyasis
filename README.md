@@ -1,5 +1,5 @@
 # 💫 About Me:
-CE Student | Backend Developer, IOT | Python, C++, PHP | Django, Django REST framework
+CE Student | Backend Developer, IOT | Python, C++, PHP | Django MVT, Django REST framework
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@iliya_hoseyny) 

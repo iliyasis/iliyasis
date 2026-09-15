@@ -1,6 +1,5 @@
 # 💫 About Me:
-A backend-focused full-stack developer who masters the art of productive laziness, channeling energy between efficient code and the gym.
-
+CE Student | Backend Developer, IOT | Python, C++, PHP | Django, Django REST framework
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@iliya_hoseyny) 
